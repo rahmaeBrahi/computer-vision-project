@@ -1,7 +1,7 @@
 #  Computer Vision Tracking Project
 
 This project demonstrates object tracking using the YOLOv5 model. The tracking process is implemented in the `main.py` file and uses videos as input.
-
+You can select which person to track by clicking on them in the video — the system is capable of tracking **any person** that appears in the input video.
 ---
 
 ## Project Structure
